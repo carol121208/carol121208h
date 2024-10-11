@@ -2,7 +2,7 @@
 
 Meu nome é Carolinie Medeiros
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScrift
 - Utilizo este espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
